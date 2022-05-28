@@ -9,6 +9,10 @@ In outer dir, in order to run the program:
 ``
 python manage.py runserver
 ``
+Changes in models:
+``
+python manage.py makemigrations creator
+``
 
 ## Useful resources to learn Django
 https://djangoforbeginners.com/
