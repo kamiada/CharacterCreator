@@ -131,6 +131,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    # IMPORTANT!
     "creator.apps.PagesConfig",  # new
 ]
 STATICFILES_DIRS = [
